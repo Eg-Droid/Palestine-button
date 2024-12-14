@@ -100,7 +100,7 @@ Examples:
 ## Need Help with Installation?  
 
 If you need assistance installing the flag on your website or customizing it for your platform, feel free to reach out!  
-**Email**: [support@example.com](mailto:support@example.com)  
+**Email**: [egg-droid@protonmail.com](mailto:egg-droid@protonmail.com)  
 
 We'll be happy to help you showcase your support for Palestine on your website.  
 
@@ -108,7 +108,7 @@ We'll be happy to help you showcase your support for Palestine on your website.
 ## Donate to Keep Similar Projects Going  
 
 If you find this project helpful and would like to support similar initiatives, consider donating to us. Your contribution will help fund future projects and enhancements.  
-**Donate via Bitcoin**: [Bitcoin Address](bitcoin:YOUR_BITCOIN_ADDRESS)
+**Donate via Bitcoin**: [12YnCS3hhCJCyfAWx23xh22JPGjojpnDUz](bitcoin:12YnCS3hhCJCyfAWx23xh22JPGjojpnDUz)
 
   
 ## Donate to Trusted Charities  
