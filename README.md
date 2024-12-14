@@ -1,6 +1,8 @@
 # Add a Palestine Flag Button to Your Website
 Easily add a Palestine Flag Button to your website to show support and raise awareness. This repository provides a self-contained snippet for plain HTML use and instructions for integrating it into WordPress and other website builders.
 
+## Example
+[![example](example.png)](https://www.unrwa.org)
 
 ## Features  
 - **Two Display Options**:  
