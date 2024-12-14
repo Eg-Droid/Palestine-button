@@ -93,4 +93,25 @@ Examples:
 - **[Medical Aid for Palestinians (MAP)](https://www.map.org.uk/)** – Focused on healthcare in Palestine.  
 
 5. **Save Your Changes**:  
-   - Save and publish your website updates to display the button. 
+   - Save and publish your website updates to display the button.
+  
+## Need Help with Installation?  
+
+If you need assistance installing the flag on your website or customizing it for your platform, feel free to reach out!  
+**Email**: [support@example.com](mailto:support@example.com)  
+
+We'll be happy to help you showcase your support for Palestine on your website.  
+
+
+## Donate to Keep Similar Projects Going  
+
+If you find this project helpful and would like to support similar initiatives, consider donating to us. Your contribution will help fund future projects and enhancements.  
+**Donate via Bitcoin**: [Bitcoin Address](bitcoin:YOUR_BITCOIN_ADDRESS)
+
+  
+## Donate to Trusted Charities  
+
+If you'd like to contribute directly to supporting Palestine, consider donating to one of these trusted organizations:  
+- **[UNRWA](https://www.unrwa.org/)** – United Nations Relief and Works Agency for Palestine Refugees.  
+- **[Islamic Relief](https://www.islamic-relief.org/)** – Provides emergency aid and development projects.  
+- **[Medical Aid for Palestinians (MAP)](https://www.map.org.uk/)** – Focused on healthcare in Palestine.  
